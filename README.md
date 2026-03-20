@@ -14,7 +14,7 @@
 
 ## Who I Am
 
-I'm a second-year B.Tech student at KNIT Sultanpur, building backend systems and automation tools that work reliably in production. My work spans REST APIs, background processing pipelines, web automation, and cross-platform tooling.
+I'm a B.Tech student at KNIT Sultanpur, building backend systems and automation tools that work reliably in production. My work spans REST APIs, background processing pipelines, web automation, and cross-platform tooling.
 
 I care about writing systems that are maintainable and well-structured, not just functional. I'm currently expanding into applied data science through WorldQuant University's project-based lab.
 
