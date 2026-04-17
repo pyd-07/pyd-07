@@ -38,16 +38,19 @@ A production-oriented platform that monitors whether web services are live and s
 
 ---
 
-### NetcoN-OpenTether — Android USB Tethering Without Root
-*Kotlin · Android · Open Source*
+### API Test Suite — CLI-Based API Testing Engine
+*TypeScript · Node.js · CLI Tooling · Concurrency*
 
-An open-source system that lets Android devices share a PC's internet connection over USB, without requiring root access. **This project was built with AI assistance** as an exploration of what's possible, rather than from prior Kotlin or Android knowledge.
+A developer-focused API testing tool that executes YAML-defined test suites with support for parallel execution, retries, and structured reporting. Built to simulate real-world testing workflows with performance awareness and clean architecture.
 
-- Solves a real gap: most tethering solutions require root, making them inaccessible or risky
-- Written in Kotlin, designed for usability and clean installation
-- Open-source and publicly maintained
+- Parallel test execution with configurable concurrency and deterministic ordering  
+- Retry system for transient failures (network/timeouts) with controlled backoff  
+- Deep response validation (status, body, performance) with partial matching  
+- Structured CLI logging with categorized output and summary tables  
+- JSON report generation for CI pipelines and automated analysis  
+- Environment variable templating for dynamic and reusable test configurations  
 
-[`pyd-07/NetcoN-OpenTether`](https://github.com/pyd-07/NetcoN-OpenTether)
+[`pyd-07/api-test-suite`](https://github.com/pyd-07/api-test-suite)
 
 ---
 
