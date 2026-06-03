@@ -126,8 +126,8 @@ Projects built on my previous GitHub account:
 ## Education
 
 ### B.Tech — Electronics & Communication Engineering
-**Kamla Nehru Institute of Technology (KNIT), Sultanpur**
-*2024 – 2028 (Expected)*
+#### Kamla Nehru Institute of Technology (KNIT), Sultanpur
+#### 2024 – 2028 (Expected)
 ---
 
 ## Interests
@@ -138,18 +138,6 @@ Projects built on my previous GitHub account:
 - Automation & Tooling
 - Cloud Native Technologies
 - System Design
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyd-07&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyd-07" />
-</p>
 
 ---
 
