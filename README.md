@@ -1,109 +1,164 @@
 <div align="center">
 
 # Piyush Yadav
-### Backend Developer · Automation Engineer · Open to Remote Internships
+
+### Software Engineering Intern · Backend Developer · Open Source Contributor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am-piyush-wby)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaduvanshi.piyush.9a@gmail.com)
-[![Location](https://img.shields.io/badge/Lucknow%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-brightgreen?style=flat-square)](https://github.com/pyd-07)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-FFD700?style=flat-square)]()
+[![Location](https://img.shields.io/badge/Uttar%20Pradesh%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-brightgreen?style=flat-square)]()
 
 </div>
 
 ---
 
-## Who I Am
+## About Me
 
-I'm a B.Tech student at KNIT Sultanpur, building backend systems and automation tools that work reliably in production. My work spans REST APIs, background processing pipelines, web automation, and cross-platform tooling.
+I'm a B.Tech Electronics & Communication Engineering student at KNIT Sultanpur and currently working as a Software Engineering Intern at eNest Technologies.
 
-I care about writing systems that are maintainable and well-structured, not just functional. I'm currently expanding into applied data science through WorldQuant University's project-based lab.
+My interests lie in backend engineering, distributed systems, automation, developer tooling, and open-source software. I primarily work with Go, Python, TypeScript, and JavaScript, and enjoy building systems that solve practical engineering problems.
 
-I'm looking for **remote backend or automation internships** where I can contribute to real engineering problems.
+Outside of internships, I actively contribute to open-source projects and spend most of my time learning backend architecture, improving development workflows, and building tools that automate repetitive tasks.
+
+### Currently Exploring
+
+- Backend Engineering with Go
+- Distributed Systems
+- Cloud Native Technologies
+- Open Source Development
+- DevOps & Automation
 
 ---
 
-## Projects
+## Experience
+
+### Software Development Intern — eNest Technologies
+*2026 – Present*
+
+- Contributing to production software and engineering initiatives
+- Working across frontend and backend systems in a collaborative environment
+- Participating in code reviews, feature development, bug fixes, and deployment workflows
+- Gaining hands-on experience with modern software engineering practices
+
+### Web Development Intern — InAmigos Foundation
+*Former Intern*
+
+- Performed Audits and drafted improvements for the Foundation's Websites
+- Collaborated with team members on development and process improvement initiatives
+- Worked with latest tools and emerging AI.
+
+---
+
+## Open Source
+
+I look forward to contributing to open-source projects and regularly participate in issue investigation, bug fixes, documentation improvements, code reviews, and feature development.
+
+Areas of interest include:
+
+- Go Backend Systems
+- Developer Tooling
+- Testing Infrastructure
+- Automation Tools
+- API Development
+- Documentation & Community Contributions
+
+---
+
+## Featured Projects
 
 ### Uptor — Uptime Monitoring Platform
-*TypeScript · Node.js · REST APIs · MongoDB*
+*TypeScript · Node.js · MongoDB · REST APIs*
 
-A production-oriented platform that monitors whether web services are live and surfaces downtime before users notice.
+A monitoring platform designed to track service availability and notify users about downtime events.
 
 - Automated health checks with configurable monitoring intervals
-- Alert workflows triggered on service failure, with structured incident logging
-- Authentication, persistent monitoring history, and clean deployment configuration
-- Built with engineering teams in mind, designed to avoid alert noise while staying reliable
+- Incident tracking and monitoring history
+- Authentication and persistent service management
+- Designed with reliability and maintainability in mind
 
-[`pyd-07/Uptor`](https://github.com/pyd-07/Uptor)
+🔗 https://github.com/pyd-07/Uptor
 
 ---
 
 ### API Test Suite — CLI-Based API Testing Engine
-*TypeScript · Node.js · CLI Tooling · Concurrency*
+*TypeScript · Node.js · CLI Tooling*
 
-A developer-focused API testing tool that executes YAML-defined test suites with support for parallel execution, retries, and structured reporting. Built to simulate real-world testing workflows with performance awareness and clean architecture.
+A developer-focused API testing tool built around YAML-defined test suites.
 
-- Parallel test execution with configurable concurrency and deterministic ordering  
-- Retry system for transient failures (network/timeouts) with controlled backoff  
-- Deep response validation (status, body, performance) with partial matching  
-- Structured CLI logging with categorized output and summary tables  
-- JSON report generation for CI pipelines and automated analysis  
-- Environment variable templating for dynamic and reusable test configurations  
+- Parallel test execution with configurable concurrency
+- Retry mechanisms for transient failures
+- Response validation and structured reporting
+- JSON report generation for CI workflows
+- Environment-based configuration support
 
-[`pyd-07/api-test-suite`](https://github.com/pyd-07/api-test-suite)
+🔗 https://github.com/pyd-07/api-test-suite
 
 ---
 
-## Earlier Work
-*Projects built on my previous account: [`sudo-0-AM`](https://github.com/sudo-0-AM)*
+## Earlier Projects
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| **Job Scraper Pipeline** | Scrapes job listings by role, location and experience; exports structured CSV | Python, Selenium, BeautifulSoup, Pandas |
-| **Broken Links Tester** | Crawls websites and reports broken links, useful for QA pre-deployment | Python, Selenium |
-| **Selenium Test Suite** | End-to-end automated test cases for web application workflows | Python, Selenium |
+Projects built on my previous GitHub account:
 
-All source code is publicly available on [`sudo-0-AM`](https://github.com/sudo-0-AM).
+🔗 https://github.com/sudo-0-AM
+
+| Project | Description | Stack |
+|----------|-------------|--------|
+| Job Scraper Pipeline | Scrapes job listings and exports structured datasets | Python, Selenium, BeautifulSoup, Pandas |
+| Broken Links Tester | Website crawler for detecting broken links | Python, Selenium |
+| Selenium Test Suite | Automated browser testing workflows | Python, Selenium |
 
 ---
 
 ## Skills
 
 | Area | Technologies |
-|------|-------------|
-| **Languages** | Python, TypeScript, JavaScript |
-| **Backend** | Node.js, Express, REST APIs |
-| **Databases** | MongoDB |
-| **Automation** | Selenium, BeautifulSoup, Pandas |
-| **Tools** | Git, Linux, Postman |
-| **Learning** | Data Analysis, Statistical Modelling (WorldQuant Applied DS Lab) |
+|--------|-------------|
+| Languages | Go, Python, TypeScript, JavaScript |
+| Backend | Node.js, Express, REST APIs |
+| Databases | MongoDB, PostgreSQL |
+| Automation | Selenium, BeautifulSoup, Pandas |
+| DevOps | Docker, Linux, GitHub Actions |
+| Tools | Git, Linux, Postman |
+| Currently Learning | Kubernetes, Distributed Systems |
 
 ---
 
 ## Education
 
-**B.Tech — Electronics & Communications Engineering**
-Kamla Nehru Institute of Technology, Sultanpur · *2024 – 2028 (Expected)*
+### B.Tech — Electronics & Communication Engineering
+**Kamla Nehru Institute of Technology (KNIT), Sultanpur**
+*2024 – 2028 (Expected)*
+---
 
-**Applied Data Science Lab**
-WorldQuant University · *Ongoing*
+## Interests
+
+- Open Source Software
+- Backend Engineering
+- Developer Experience (DevEx)
+- Automation & Tooling
+- Cloud Native Technologies
+- System Design
 
 ---
 
-## Community
+## GitHub Activity
 
-**GDG on Campus — KNIT Sultanpur** · *Sep 2025 – Present*
-Active member contributing to AI/ML learning initiatives within the Google Developer Group.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pyd-07&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyd-07" />
+</p>
 
 ---
 
-<div align="center">
+## Let's Connect
 
-**Available for remote backend and automation internships.**
-I respond promptly, feel free to reach out.
+I'm always interested in discussing backend engineering, open source, automation, and developer tooling.
 
-[![Email Me](https://img.shields.io/badge/yaduvanshi.piyush.9a%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaduvanshi.piyush.9a@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am-piyush-wby)
+**Email:** yaduvanshi.piyush.9a@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/am-piyush-wby
 
 </div>
