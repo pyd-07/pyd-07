@@ -17,6 +17,7 @@ B.Tech ECE student at KNIT Sultanpur (2024-2028).
 - [#16817](https://github.com/kyverno/kyverno/pull/16817) - Fixed `verifyDigest` handling in `ImageValidatingPolicy`
 - [#16588](https://github.com/kyverno/kyverno/pull/16588) - Fixed incorrect SKIP entries in PolicyReports for `matchConditions` non-matches
 - [#16476](https://github.com/kyverno/kyverno/pull/16476) - Preserved `namespaceSelector` during policy autogen
+- [#16447](https://github.com/kyverno/kyverno/pull/16447) - Improved `verifyImages` failure reporting to include all failing images
 - [#16258](https://github.com/kyverno/kyverno/pull/16258) - Fixed webhook reconciliation on clusters that normalize `namespaceSelector`
 
 ## Projects
