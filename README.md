@@ -4,7 +4,7 @@ B.Tech ECE student at KNIT Sultanpur (2024-2028).
 
 ## Work
 
-**Software Engineering Intern, eNest** · 2026-Present
+**Software Engineering Intern, eNest** · May 2026 - Aug 2026
 
 - Full-stack feature development
 - Code reviews
