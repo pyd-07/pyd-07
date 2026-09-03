@@ -14,6 +14,7 @@ B.Tech ECE student at KNIT Sultanpur (2024-2028).
 
 **Kyverno** · Contributor
 
+- [api/#126](https://github.com/kyverno/api/pull/126)     - Fixed `empty CRD metadata` causing Argo CD `OutOfSync`
 - [#16817](https://github.com/kyverno/kyverno/pull/16817) - Fixed `verifyDigest` handling in `ImageValidatingPolicy`
 - [#16588](https://github.com/kyverno/kyverno/pull/16588) - Fixed incorrect SKIP entries in PolicyReports for `matchConditions` non-matches
 - [#16476](https://github.com/kyverno/kyverno/pull/16476) - Preserved `namespaceSelector` during policy autogen
